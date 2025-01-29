@@ -82,7 +82,6 @@
     <div class="container">
         <h1>Bem-vindo à Live Store</h1>
         <p>Estamos felizes de te ver por aqui. Explore nosso site e descubra tudo o que temos a oferecer!</p>
-        <button class="button" onclick="alert('Seja bem-vindo!')">Clique aqui</button>
         <nav>
             <a class="nav-link" href="outra/index.html">Cartões</a>
             <a class="nav-link" href="outra1/index.html">Bandeiras</a>
